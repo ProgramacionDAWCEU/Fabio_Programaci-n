@@ -1,4 +1,4 @@
-package programas;
+package EjerciciosTema3;
 
 public class Ejercicio13 {
 
@@ -13,12 +13,10 @@ public class Ejercicio13 {
 				multiplicacion = c * a;
 				tabla[x][y] = multiplicacion;
 				a++;
-				if ( a > 10) {
+				if (a > 10) {
 					a = 1;
 				}
-				
-				
-				
+
 			}
 		}
 
